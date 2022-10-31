@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG" width="100"/>
+  <img src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=" width="100"/>
 </div>
 
 ### Hi there 👋
