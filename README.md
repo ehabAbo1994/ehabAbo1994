@@ -4,9 +4,6 @@
 
 ### Hi there 👋
 
-<!--
-**ehabAbo1994/ehabAbo1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some thing about me:
 
 - 🔭 I’m currently working on expanding my knowlage in the devops field.
@@ -20,4 +17,4 @@ Here are some thing about me:
   <img src="https://giphy.com/gifs/thekidlaroi-go-juice-wrld-the-kid-laroi-8QW8Ydy7TauCLItUZG" width="100"/>
 </div>
 
--->
+
