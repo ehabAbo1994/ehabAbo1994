@@ -3,17 +3,19 @@
 Here are some thing about me:
 
 - 🔭 I’m currently working on expanding my knowlage in the devops field.
+- 
 - 🌱 I’m currently learning everything 🤣
+- 
 - 👯 I’m looking to collaborate with devops engineers.   
+- 
 - 💬 Ask me about anything! 
+- 
 - 📫 reach me on linkedin: <div id="badges">
   <a href="https://www.linkedin.com/in/ehab-abu-zalaf/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-- 🥅 2022-2023 Goals: thrive in the devops field !!  
-- ⚡ Fun fact: I am a biker 
 
 
 ### :hammer_and_wrench: Languages and Tools :
