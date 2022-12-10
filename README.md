@@ -4,11 +4,10 @@ Here are some thing about me:
 
 - 🔭 I’m currently working on expanding my knowlage in the devops field.
 - 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning devops tools - kubernetes, jenkins, terraform.
 - 
 - 👯 I’m looking to collaborate with devops engineers.   
 - 
-- 💬 Ask me about anything! 
 - 
 - 📫 reach me on linkedin: <div id="badges">
   <a href="https://www.linkedin.com/in/ehab-abu-zalaf/">
